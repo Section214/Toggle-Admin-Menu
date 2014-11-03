@@ -1,0 +1,9 @@
+#wp-admin-bar-toggle-admin-menu a {
+    padding: 0 !important;
+}
+
+#wp-admin-bar-toggle-admin-menu i {
+    font: 20px "dashicons" !important;
+    padding: 6px 0;
+    color: #999;
+}
